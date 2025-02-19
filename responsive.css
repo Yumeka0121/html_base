@@ -4,3 +4,10 @@
         margin-bottom:50px;
     }
 }
+
+@media(max-width:670px){
+    .lesson{
+        width:25%;
+        margin-bottom:50px;
+    }
+}
