@@ -7,6 +7,10 @@ body{
     font-family:"Hiragino Kaku Gothic ProN";
 }
 
+.clear{
+    clear:left;
+}
+
 a{
     text-decoration:none;
 }
@@ -102,7 +106,6 @@ header{
 }
 
 .lesson-wrapper{
-    height:500px;
     padding-bottom:80px;
     background-color:#f7f7f7;
     text-align:center;
